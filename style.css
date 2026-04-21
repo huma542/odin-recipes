@@ -1,0 +1,81 @@
+/* css for Recipes Page*/
+html{
+
+  font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+h3{
+background-color: white;
+    color: brown;
+}
+
+
+.images{
+    display: inline-block;
+    padding: 5px;
+    margin: 20px;
+    
+    
+}
+img{
+    border: 2px solid brown;
+    border-radius: 50px;
+    margin-bottom: 220px;
+}
+.content{
+    
+display: inline-block; 
+  width: 60%;
+  margin-top: 0;
+  padding: 20px;
+
+    
+}
+
+.featured li{
+    display: inline-block;
+    list-style: none;
+    background-color:bisque;
+    color: brown;
+    margin: 20px;
+    padding: 20px;
+
+}
+.featured li a{
+      
+    background-color: bisque;
+    text-decoration: none;
+    color: brown;
+    margin: 10px;
+    padding: 5px;
+}
+
+
+.para{
+    font-size: 16px;
+    background-color: white;
+    border-radius: 25px;
+    
+    width: 220px;
+    margin: 0 auto;
+    padding: 6px;
+    
+
+
+}
+.main-container{
+    background-color:  brown;
+    opacity: 0.8;
+    margin: 5px;
+}
+footer{
+    text-align: center;
+}
+.home{
+    text-align: right;
+    padding: 3px;
+    margin: 10px;
+}
